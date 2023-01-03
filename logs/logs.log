@@ -1,0 +1,4 @@
+WARNING 2022-12-29 15:04:43,338 log Not Found: /favicon.ico
+WARNING 2022-12-29 15:04:43,338 basehttp "GET /favicon.ico HTTP/1.1" 404 3764
+WARNING 2022-12-30 12:40:17,885 log Not Found: /favicon.ico
+WARNING 2022-12-30 12:40:17,885 basehttp "GET /favicon.ico HTTP/1.1" 404 3764
