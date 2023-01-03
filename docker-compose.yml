@@ -16,7 +16,7 @@ services:
     volumes: 
       - .:/code
     ports:
-      - 8000:8000
+      - "8000:8000"
       #só inicializa os containers caso o DB esteja ok.
     depends_on:
       - db
